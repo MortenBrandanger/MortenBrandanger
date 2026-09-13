@@ -13,7 +13,7 @@ explains what happens along the way. Change ingredients and process, and see how
 those decisions affect the beer, and why. *(Open source, MIT:
 [github.com/MortenBrandanger/brewlab](https://github.com/MortenBrandanger/brewlab))*
 
-[mikrollm.vercel.app](https://mikrollm.vercel.app) — train a tiny, real transformer
+[mikrollm.com](https://mikrollm.com) — train a tiny, real transformer
 in your browser and watch it learn to predict. No API calls. *(Open source, MIT:
 [github.com/MortenBrandanger/mikrollm](https://github.com/MortenBrandanger/mikrollm))*
 
