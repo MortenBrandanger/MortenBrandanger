@@ -18,8 +18,9 @@ in your browser and watch it learn to predict. No API calls. *(Open source, MIT:
 [github.com/MortenBrandanger/mikrollm](https://github.com/MortenBrandanger/mikrollm))*
 
 [coilsplit.com](https://coilsplit.com) — guitar wiring diagrams you can actually
-build, with pickup colour-code translation, per-position analysis and calculated
-tone response.
+build. Generated from the circuit rather than drawn by hand: every switch position
+analysed for phase and hum-cancelling, pickup colour codes translated between
+brands, and a troubleshooter that works out what you mis-soldered from what you hear.
 
 [craggo.no](https://craggo.no) — a simple climbing log for recording routes,
 following friends and seeing progress over time.
