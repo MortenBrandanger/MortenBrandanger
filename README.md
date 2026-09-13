@@ -4,7 +4,6 @@ I build software professionally. This is mostly where the side projects end up.
 
 They tend to start with something I'm curious about — climbing, music, AI, beer —
 and turn into small experiments, tools or things I simply wanted to exist.
-Everything below is live — open any of it right now.
 
 ### Things you can open
 
