@@ -16,6 +16,12 @@ those decisions affect the beer, and why. *(Open source, MIT:
 in your browser and watch it learn to predict. No API calls. *(Open source, MIT:
 [github.com/MortenBrandanger/mikrollm](https://github.com/MortenBrandanger/mikrollm))*
 
+[hyphae-beryl.vercel.app](https://hyphae-beryl.vercel.app) — one persistent fungal
+organism growing through literature, poetry and Wikipedia. It tastes every fragment that
+drifts past it, a language model judges whether that fragment answers your question, and
+the threads that find something thicken while the rest wither away. Click a sentence it
+found and that sentence becomes the question.
+
 [coilsplit.com](https://coilsplit.com) — guitar wiring diagrams you can actually
 build. Generated from the circuit rather than drawn by hand: every switch position
 analysed for phase and hum-cancelling, pickup colour codes translated between
