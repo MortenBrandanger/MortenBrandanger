@@ -32,3 +32,11 @@ following friends and seeing progress over time.
 
 [dreamdaw.vercel.app](https://dreamdaw.vercel.app) — an experiment in writing songs
 together with an AI agent.
+
+### In the workshop
+
+**Lurk** — a small rendering engine, written from scratch in Metal, that lets one
+living creature move into your room through an iPhone camera. It takes its light from
+the room, casts soft shadows onto real surfaces measured by LiDAR, grows fur, keeps its
+feet planted with inverse kinematics, leaps onto the table, hides behind your coffee
+cup — and closes its eyes when you pet it. *(Private for now.)*
