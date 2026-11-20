@@ -29,7 +29,21 @@ so no visit is the same. Needs a browser with WebGPU.
 
 <br clear="both"><br>
 
-<a href="https://brewexplained.com"><img align="right" width="45%" src="img/brewlab.jpg" alt="BrewLab: the verdict on a finished West Coast IPA"></a>
+<a href="https://bygda.vercel.app"><img align="right" width="45%" src="img/bygda.jpg" alt="Bygda: the village of Svartset on a winter night, windows lit"></a>
+
+### Bygda
+
+A small village where everyone lives a life of their own, starting as a Stone Age band
+in a closed valley. Nobody wrote the story: it grows out of people needing food, warmth
+and a roof, out of what they know, remember and believe, and out of what they hear about
+each other. Nothing new appears by itself; someone has to discover it, hear of it, decide
+on it and do the work. *(In Norwegian.)*
+
+[bygda.vercel.app](https://bygda.vercel.app)
+
+<br clear="both"><br>
+
+<a href="https://brewexplained.com"><img align="left" width="45%" src="img/brewlab.jpg" alt="BrewLab: the verdict on a finished West Coast IPA"></a>
 
 ### BrewLab
 
@@ -42,7 +56,7 @@ those decisions affect the beer, and why. *(Open source, MIT:
 
 <br clear="both"><br>
 
-<a href="https://mikrollm.com"><img align="left" width="45%" src="img/mikrollm.jpg" alt="MikroLLM: step one of training the 60-parameter transformer"></a>
+<a href="https://mikrollm.com"><img align="right" width="45%" src="img/mikrollm.jpg" alt="MikroLLM: step one of training the 60-parameter transformer"></a>
 
 ### MikroLLM
 
@@ -54,7 +68,7 @@ in your browser and watch it learn to predict. No API calls. *(Open source, MIT:
 
 <br clear="both"><br>
 
-<a href="https://hyphae-beryl.vercel.app"><img align="right" width="45%" src="img/hyphae.jpg" alt="Hyphae: threads lighting up where the organism found an answer"></a>
+<a href="https://hyphae-beryl.vercel.app"><img align="left" width="45%" src="img/hyphae.jpg" alt="Hyphae: threads lighting up where the organism found an answer"></a>
 
 ### Hyphae
 
@@ -68,7 +82,7 @@ found and that sentence becomes the question.
 
 <br clear="both"><br>
 
-<a href="https://coilsplit.com"><img align="left" width="45%" src="img/coilsplit.jpg" alt="coilsplit: a generated wiring diagram for a Stratocaster"></a>
+<a href="https://coilsplit.com"><img align="right" width="45%" src="img/coilsplit.jpg" alt="coilsplit: a generated wiring diagram for a Stratocaster"></a>
 
 ### coilsplit
 
@@ -81,7 +95,7 @@ brands, and a troubleshooter that works out what you mis-soldered from what you 
 
 <br clear="both"><br>
 
-<a href="https://craggo.no"><img align="right" width="45%" src="img/craggo.jpg" alt="Craggo front page"></a>
+<a href="https://craggo.no"><img align="left" width="45%" src="img/craggo.jpg" alt="Craggo front page"></a>
 
 ### Craggo
 
@@ -92,7 +106,7 @@ following friends and seeing progress over time.
 
 <br clear="both"><br>
 
-<a href="https://dreamdaw.vercel.app"><img align="left" width="45%" src="img/dreamdaw.jpg" alt="DreamDAW: a song with sections, chords and a drum grid"></a>
+<a href="https://dreamdaw.vercel.app"><img align="right" width="45%" src="img/dreamdaw.jpg" alt="DreamDAW: a song with sections, chords and a drum grid"></a>
 
 ### DreamDAW
 
@@ -103,7 +117,7 @@ together with an AI agent.
 
 <br clear="both"><br>
 
-<a href="https://spore-two.vercel.app"><img align="right" width="45%" src="img/spore.jpg" alt="Spore: the swarm converging into a net, with the control panel below"></a>
+<a href="https://spore-two.vercel.app"><img align="left" width="45%" src="img/spore.jpg" alt="Spore: the swarm converging into a net, with the control panel below"></a>
 
 ### Spore
 
@@ -127,7 +141,7 @@ the room, casts soft shadows onto real surfaces measured by LiDAR, grows fur, ke
 feet planted with inverse kinematics, leaps onto the table, hides behind your coffee
 cup — and closes its eyes when you pet it.
 
-<img align="left" width="45%" src="img/svart-skog.jpg" alt="Svart skog: the planet from orbit, and a forest floor on it">
+<img align="right" width="45%" src="img/svart-skog.jpg" alt="Svart skog: the planet from orbit, and a forest floor on it">
 
 ### Svart skog
 
@@ -136,7 +150,7 @@ measurable, on an engine of its own in C++23, Slang and Metal 4.
 
 <br clear="both"><br>
 
-<img align="right" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
+<img align="left" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
 
 ### Blekk
 
@@ -146,7 +160,7 @@ The rooms grow, and the sound is made by whatever is happening.
 
 <br clear="both"><br>
 
-<img align="left" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
+<img align="right" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
 
 ### psychoziser
 
@@ -156,7 +170,7 @@ good at without ever quite figuring out.
 
 <br clear="both"><br>
 
-<img align="right" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
+<img align="left" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
 
 ### Takt
 
