@@ -91,7 +91,7 @@ the room, casts soft shadows onto real surfaces measured by LiDAR, grows fur, ke
 feet planted with inverse kinematics, leaps onto the table, hides behind your coffee
 cup — and closes its eyes when you pet it.
 
-<img align="left" width="45%" src="img/svart-skog.jpg" alt="Svart skog: a meadow on the planet">
+<img align="left" width="45%" src="img/svart-skog.jpg" alt="Svart skog: the planet from orbit, and a forest floor on it">
 
 **Svart skog** — a small planet that keeps on living. Simulation first, headless and
 measurable, on an engine of its own in C++23, Slang and Metal 4.
