@@ -13,7 +13,7 @@ and turn into small experiments, tools or things I simply wanted to exist.
 place. Script, breakdown, stripboard, call sheets and budget share one data model, and
 before a change is saved it shows you everything that change touches. *(Beta.)*
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://figur-gamma.vercel.app"><img align="left" width="45%" src="img/figur.jpg" alt="Figur: an iridescent figure in a black void"></a>
 
@@ -21,7 +21,7 @@ before a change is saved it shows you everything that change touches. *(Beta.)*
 nothing, living a life of its own. Form, light and sound are computed while you watch,
 so no visit is the same. Needs a browser with WebGPU.
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://brewexplained.com"><img align="right" width="45%" src="img/brewlab.jpg" alt="BrewLab: the verdict on a finished West Coast IPA"></a>
 
@@ -30,7 +30,7 @@ explains what happens along the way. Change ingredients and process, and see how
 those decisions affect the beer, and why. *(Open source, MIT:
 [github.com/MortenBrandanger/brewlab](https://github.com/MortenBrandanger/brewlab))*
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://mikrollm.com"><img align="left" width="45%" src="img/mikrollm.jpg" alt="MikroLLM: step one of training the 60-parameter transformer"></a>
 
@@ -38,7 +38,7 @@ those decisions affect the beer, and why. *(Open source, MIT:
 in your browser and watch it learn to predict. No API calls. *(Open source, MIT:
 [github.com/MortenBrandanger/mikrollm](https://github.com/MortenBrandanger/mikrollm))*
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://hyphae-beryl.vercel.app"><img align="right" width="45%" src="img/hyphae.jpg" alt="Hyphae: threads lighting up where the organism found an answer"></a>
 
@@ -48,7 +48,7 @@ drifts past it, a language model judges whether that fragment answers your quest
 the threads that find something thicken while the rest wither away. Click a sentence it
 found and that sentence becomes the question.
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://coilsplit.com"><img align="left" width="45%" src="img/coilsplit.jpg" alt="coilsplit: a generated wiring diagram for a Stratocaster"></a>
 
@@ -57,21 +57,21 @@ build. Generated from the circuit rather than drawn by hand: every switch positi
 analysed for phase and hum-cancelling, pickup colour codes translated between
 brands, and a troubleshooter that works out what you mis-soldered from what you hear.
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://craggo.no"><img align="right" width="45%" src="img/craggo.jpg" alt="Craggo front page"></a>
 
 [craggo.no](https://craggo.no) — a simple climbing log for recording routes,
 following friends and seeing progress over time.
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://dreamdaw.vercel.app"><img align="left" width="45%" src="img/dreamdaw.jpg" alt="DreamDAW: a song with sections, chords and a drum grid"></a>
 
 [dreamdaw.vercel.app](https://dreamdaw.vercel.app) — an experiment in writing songs
 together with an AI agent.
 
-<br clear="both">
+<br clear="both"><br>
 
 <a href="https://spore-two.vercel.app"><img align="right" width="45%" src="img/spore.jpg" alt="Spore: the swarm converging into a net, with the control panel below"></a>
 
@@ -79,7 +79,7 @@ together with an AI agent.
 language model taken out: a slime-mould swarm of 262,000 agents and a video feedback
 loop you can drag around. Needs a browser with WebGPU.
 
-<br clear="both">
+<br clear="both"><br>
 
 ### In the workshop
 
@@ -96,7 +96,7 @@ cup — and closes its eyes when you pet it.
 **Svart skog** — a small planet that keeps on living. Simulation first, headless and
 measurable, on an engine of its own in C++23, Slang and Metal 4.
 
-<br clear="both">
+<br clear="both"><br>
 
 <img align="right" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
 
@@ -104,7 +104,7 @@ measurable, on an engine of its own in C++23, Slang and Metal 4.
 maze with a lantern full of light that flows, and something in the dark drinks it.
 The rooms grow, and the sound is made by whatever is happening.
 
-<br clear="both">
+<br clear="both"><br>
 
 <img align="left" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
 
@@ -112,7 +112,7 @@ The rooms grow, and the sound is made by whatever is happening.
 where you shape a psychedelic image and its sound by hand. A control panel you get
 good at without ever quite figuring out.
 
-<br clear="both">
+<br clear="both"><br>
 
 <img align="right" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
 
@@ -120,7 +120,7 @@ good at without ever quite figuring out.
 groove while you work on one limb, listens over MIDI, and tells you afterwards in
 plain words whether you rush, drag or are just uneven. No points, no streaks.
 
-<br clear="both">
+<br clear="both"><br>
 
 **Leadsheet** — a local MCP server where your own LLM writes the song skeleton, and
 hands you a MIDI file that Logic Pro turns into a chord track and a band.
