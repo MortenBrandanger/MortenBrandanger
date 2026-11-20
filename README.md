@@ -150,7 +150,19 @@ measurable, on an engine of its own in C++23, Slang and Metal 4.
 
 <br clear="both"><br>
 
-<img align="left" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
+<img align="left" width="45%" src="img/lysverk.jpg" alt="Lysverk: twelve of the scenes, among them an ocean at sunset, a black hole, a stained-glass window and northern lights">
+
+### Lysverk
+
+A workshop for light: a playground for finding out what is graphically possible, with
+no simulation and no rules from any game. Nearly eighty scenes, each one a single shader
+file whose parameters become its control panel: a black hole, an ocean at sunset,
+northern lights, a stained-glass window, a hall of mirrors. A sibling of Svart skog, on
+the same toolchain of C++23, Slang and Metal.
+
+<br clear="both"><br>
+
+<img align="right" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
 
 ### Blekk
 
@@ -160,7 +172,7 @@ The rooms grow, and the sound is made by whatever is happening.
 
 <br clear="both"><br>
 
-<img align="right" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
+<img align="left" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
 
 ### psychoziser
 
@@ -170,7 +182,7 @@ good at without ever quite figuring out.
 
 <br clear="both"><br>
 
-<img align="left" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
+<img align="right" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
 
 ### Takt
 
