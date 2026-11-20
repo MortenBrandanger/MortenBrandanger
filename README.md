@@ -7,6 +7,14 @@ and turn into small experiments, tools or things I simply wanted to exist.
 
 ### Things you can open
 
+[sunsetpanic.com](https://sunsetpanic.com) — plan, schedule and budget a film in one
+place. Script, breakdown, stripboard, call sheets and budget share one data model, and
+before a change is saved it shows you everything that change touches. *(Beta.)*
+
+[figur-gamma.vercel.app](https://figur-gamma.vercel.app) — a single figure in a black
+nothing, living a life of its own. Form, light and sound are computed while you watch,
+so no visit is the same. Needs a browser with WebGPU.
+
 [brewexplained.com](https://brewexplained.com) — a beer-brewing simulator that
 explains what happens along the way. Change ingredients and process, and see how
 those decisions affect the beer, and why. *(Open source, MIT:
@@ -33,17 +41,9 @@ following friends and seeing progress over time.
 [dreamdaw.vercel.app](https://dreamdaw.vercel.app) — an experiment in writing songs
 together with an AI agent.
 
-[sunsetpanic.com](https://sunsetpanic.com) — plan, schedule and budget a film in one
-place. Script, breakdown, stripboard, call sheets and budget share one data model, and
-before a change is saved it shows you everything that change touches. *(Beta.)*
-
 [spore-two.vercel.app](https://spore-two.vercel.app) — the engine of Hyphae with the
 language model taken out: a slime-mould swarm of 262,000 agents and a video feedback
 loop you can drag around. Needs a browser with WebGPU.
-
-[figur-gamma.vercel.app](https://figur-gamma.vercel.app) — a single figure in a black
-nothing, living a life of its own. Form, light and sound are computed while you watch,
-so no visit is the same. Needs a browser with WebGPU.
 
 ### In the workshop
 
