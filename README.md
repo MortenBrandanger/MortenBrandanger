@@ -5,7 +5,20 @@ I build software professionally. This is mostly where the side projects end up.
 They tend to start with something I'm curious about — climbing, music, AI, beer —
 and turn into small experiments, tools or things I simply wanted to exist.
 
-<a href="https://sunsetpanic.com"><img align="right" width="45%" src="img/sunsetpanic.jpg" alt="Sunset Panic front page"></a>
+<a href="https://klang-theta.vercel.app"><img align="right" width="45%" src="img/klang.jpg" alt="Klang: two open hands in front of a camera, each fingertip glowing in its own colour"></a>
+
+### Klang
+
+An instrument you play in the air. Ten fingers, ten voices: stretch a finger to wake
+one, move it to shape its pitch and sound, and let two fingertips meet to trade sounds.
+A camera reads your hands and everything runs in the browser. *(Best on a computer,
+with headphones.)*
+
+[klang-theta.vercel.app](https://klang-theta.vercel.app)
+
+<br clear="both"><br>
+
+<a href="https://sunsetpanic.com"><img align="left" width="45%" src="img/sunsetpanic.jpg" alt="Sunset Panic front page"></a>
 
 ### Sunset Panic
 
@@ -17,7 +30,7 @@ before a change is saved it shows you everything that change touches. *(Beta.)*
 
 <br clear="both"><br>
 
-<a href="https://figur-gamma.vercel.app"><img align="left" width="45%" src="img/figur.jpg" alt="Figur: an iridescent figure in a black void"></a>
+<a href="https://figur-gamma.vercel.app"><img align="right" width="45%" src="img/figur.jpg" alt="Figur: an iridescent figure in a black void"></a>
 
 ### Figur
 
@@ -29,7 +42,7 @@ so no visit is the same. Needs a browser with WebGPU.
 
 <br clear="both"><br>
 
-<a href="https://bygda.vercel.app"><img align="right" width="45%" src="img/bygda.jpg" alt="Bygda: the village of Svartset on a winter night, windows lit"></a>
+<a href="https://bygda.vercel.app"><img align="left" width="45%" src="img/bygda.jpg" alt="Bygda: the village of Svartset on a winter night, windows lit"></a>
 
 ### Bygda
 
@@ -43,7 +56,7 @@ on it and do the work. *(In Norwegian.)*
 
 <br clear="both"><br>
 
-<a href="https://brewexplained.com"><img align="left" width="45%" src="img/brewlab.jpg" alt="BrewLab: the verdict on a finished West Coast IPA"></a>
+<a href="https://brewexplained.com"><img align="right" width="45%" src="img/brewlab.jpg" alt="BrewLab: the verdict on a finished West Coast IPA"></a>
 
 ### BrewLab
 
@@ -56,7 +69,7 @@ those decisions affect the beer, and why. *(Open source, MIT:
 
 <br clear="both"><br>
 
-<a href="https://mikrollm.com"><img align="right" width="45%" src="img/mikrollm.jpg" alt="MikroLLM: step one of training the 60-parameter transformer"></a>
+<a href="https://mikrollm.com"><img align="left" width="45%" src="img/mikrollm.jpg" alt="MikroLLM: step one of training the 60-parameter transformer"></a>
 
 ### MikroLLM
 
@@ -68,7 +81,7 @@ in your browser and watch it learn to predict. No API calls. *(Open source, MIT:
 
 <br clear="both"><br>
 
-<a href="https://hyphae-beryl.vercel.app"><img align="left" width="45%" src="img/hyphae.jpg" alt="Hyphae: threads lighting up where the organism found an answer"></a>
+<a href="https://hyphae-beryl.vercel.app"><img align="right" width="45%" src="img/hyphae.jpg" alt="Hyphae: threads lighting up where the organism found an answer"></a>
 
 ### Hyphae
 
@@ -82,7 +95,7 @@ found and that sentence becomes the question.
 
 <br clear="both"><br>
 
-<a href="https://coilsplit.com"><img align="right" width="45%" src="img/coilsplit.jpg" alt="coilsplit: a generated wiring diagram for a Stratocaster"></a>
+<a href="https://coilsplit.com"><img align="left" width="45%" src="img/coilsplit.jpg" alt="coilsplit: a generated wiring diagram for a Stratocaster"></a>
 
 ### coilsplit
 
@@ -95,7 +108,7 @@ brands, and a troubleshooter that works out what you mis-soldered from what you 
 
 <br clear="both"><br>
 
-<a href="https://craggo.no"><img align="left" width="45%" src="img/craggo.jpg" alt="Craggo front page"></a>
+<a href="https://craggo.no"><img align="right" width="45%" src="img/craggo.jpg" alt="Craggo front page"></a>
 
 ### Craggo
 
@@ -106,7 +119,7 @@ following friends and seeing progress over time.
 
 <br clear="both"><br>
 
-<a href="https://dreamdaw.vercel.app"><img align="right" width="45%" src="img/dreamdaw.jpg" alt="DreamDAW: a song with sections, chords and a drum grid"></a>
+<a href="https://dreamdaw.vercel.app"><img align="left" width="45%" src="img/dreamdaw.jpg" alt="DreamDAW: a song with sections, chords and a drum grid"></a>
 
 ### DreamDAW
 
@@ -117,7 +130,7 @@ together with an AI agent.
 
 <br clear="both"><br>
 
-<a href="https://spore-two.vercel.app"><img align="left" width="45%" src="img/spore.jpg" alt="Spore: the swarm converging into a net, with the control panel below"></a>
+<a href="https://spore-two.vercel.app"><img align="right" width="45%" src="img/spore.jpg" alt="Spore: the swarm converging into a net, with the control panel below"></a>
 
 ### Spore
 
@@ -141,7 +154,7 @@ the room, casts soft shadows onto real surfaces measured by LiDAR, grows fur, ke
 feet planted with inverse kinematics, leaps onto the table, hides behind your coffee
 cup — and closes its eyes when you pet it.
 
-<img align="right" width="45%" src="img/svart-skog.jpg" alt="Svart skog: the planet from orbit, and a forest floor on it">
+<img align="left" width="45%" src="img/svart-skog.jpg" alt="Svart skog: the planet from orbit, and a forest floor on it">
 
 ### Svart skog
 
@@ -150,7 +163,7 @@ measurable, on an engine of its own in C++23, Slang and Metal 4.
 
 <br clear="both"><br>
 
-<img align="left" width="45%" src="img/lysverk.jpg" alt="Lysverk: twelve of the scenes, among them an ocean at sunset, a black hole, a stained-glass window and northern lights">
+<img align="right" width="45%" src="img/lysverk.jpg" alt="Lysverk: twelve of the scenes, among them an ocean at sunset, a black hole, a stained-glass window and northern lights">
 
 ### Lysverk
 
@@ -162,7 +175,7 @@ the same toolchain of C++23, Slang and Metal.
 
 <br clear="both"><br>
 
-<img align="right" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
+<img align="left" width="45%" src="img/blekk.jpg" alt="Blekk: light flowing through a dark room">
 
 ### Blekk
 
@@ -172,7 +185,7 @@ The rooms grow, and the sound is made by whatever is happening.
 
 <br clear="both"><br>
 
-<img align="left" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
+<img align="right" width="45%" src="img/psychoziser.jpg" alt="psychoziser: the image above its control panel">
 
 ### psychoziser
 
@@ -182,7 +195,7 @@ good at without ever quite figuring out.
 
 <br clear="both"><br>
 
-<img align="right" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
+<img align="left" width="45%" src="img/takt.jpg" alt="Takt: the drum kit seen from above, the course and the groove grid">
 
 ### Takt
 
